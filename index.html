@@ -2,33 +2,58 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>MRD - الصفحة الرئيسية</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MRD - عملة مراد الرقمية</title>
     <style>
         body {
-            background-color: #0d1117;
-            color: white;
-            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: radial-gradient(circle at center, #0d1b2a, #000000);
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             text-align: center;
-            padding: 50px;
         }
-        img {
-            width: 200px;
-            border-radius: 50%;
+        .container {
+            padding: 40px 20px;
         }
-        a {
-            color: #58a6ff;
-            font-size: 20px;
-            display: block;
-            margin-top: 30px;
+        .coin {
+            width: 220px;
+            margin: 20px auto;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.2em;
+            max-width: 700px;
+            margin: 0 auto 30px;
+        }
+        .contact-btn {
+            background-color: #1f6f8b;
+            border: none;
+            padding: 12px 24px;
+            color: white;
+            font-size: 1em;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .contact-btn:hover {
+            background-color: #2e94b9;
         }
     </style>
 </head>
 <body>
-    <h1>عملة MRD - مراد</h1>
-    <img src="mrd-coin.png" alt="شعار العملة" />
-    <p>أول عملة رقمية تهدف لدعم جميع تخصصات الهندسة.</p>
-    <a href="about.html">معلومات أكثر</a>
+    <div class="container">
+        <img src="mrd-coin.png" alt="MRD Coin" class="coin">
+        <h1>MRD - عملة مراد الرقمية</h1>
+        <p>
+            عملة MRD هي أول عملة رقمية مخصصة لمجالات الهندسة، أُنشئت لدعم الابتكار والمهندسين في مختلف التخصصات.
+            تم تطويرها بواسطة المهندس المدني محمود مراد، لتكون منصة تكنولوجية وهندسية موحدة.
+        </p>
+        <a href="mailto:mahmoud.morad67@gmail.com"><button class="contact-btn">تواصل معنا</button></a>
+    </div>
 </body>
 </html>
