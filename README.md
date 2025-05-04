@@ -1,41 +1,30 @@
 
-# Morad (MRD) – Digital Currency for Engineers
+# MRD - Morad Coin
 
-**MRD (Morad)** is a pioneering digital token built by engineers, for engineers.  
-It supports smart transactions, decentralized collaboration, and a strong community focused on innovation and real-world engineering applications.
+**MRD** is a global digital currency created by Eng. Mahmoud Morad, aiming to support engineers, developers, and technical innovators worldwide.
 
----
+## Vision
+To become the leading digital currency supporting the engineering sector through blockchain-based infrastructure and community-driven innovation.
 
-## What is MRD?
-
-MRD is a cryptocurrency created to empower engineers across all disciplines—civil, mechanical, electrical, software, and more.  
-It’s built to provide a new way of rewarding technical contribution and enhancing professional collaboration in the digital economy.
-
----
+## Mission
+- Empower engineers to access blockchain tools.
+- Facilitate funding for technical and infrastructure projects.
+- Create a global network of engineering professionals using MRD as a trusted medium.
 
 ## Key Features
+- Fast, secure digital transactions
+- Transparent smart contract system
+- Focused on engineering-related use cases
+- Future plans to build a dedicated blockchain for MRD
 
-- Smart payment system for engineering services
-- Community rewards for innovation and collaboration
-- Transparent, decentralized governance
-- Focus on the Arab and global engineering communities
+## Founder
+**Mahmoud Morad** – Civil Engineer  
+Email: mahmoud.morad67@gmail.com  
+Phone: +20 1551232642
 
----
-
-## About the Founder
-
-**Eng. Mahmoud Morad**, Civil Engineer and visionary founder of MRD, is driven by a mission to create a meaningful financial tool for engineers around the world.
-
----
-
-## Live Site
-
-Access the website:  
-[https://yourusername.github.io/morad-website](https://yourusername.github.io/morad-website)
+## Future
+After reaching global adoption, MRD plans to evolve from a token into a fully decentralized blockchain network.
 
 ---
 
-## Contact
-
-- Email: [mahmoud.morad67@gmail.com](mailto:mahmoud.morad67@gmail.com)  
-- WhatsApp: [201551232642](https://wa.me/201551232642)
+*Built for the future of engineering.*
